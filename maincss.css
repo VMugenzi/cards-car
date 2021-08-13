@@ -62,6 +62,7 @@ button{
    margin-left: 30px;
    margin-top: 120px;
    text-align: center;
+   border: inherit;
 }
 button:hover{
     color: hsl(0, 0%, 95%);
